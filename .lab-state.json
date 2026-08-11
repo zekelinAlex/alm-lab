@@ -6,5 +6,6 @@
   "publisherName": "ALMLab",
   "publisherPrefix": "almlab",
   "packageDeployerScaffolded": true,
-  "dataModelScaffolded": true
+  "dataModelScaffolded": true,
+  "securityScaffolded": true
 }
