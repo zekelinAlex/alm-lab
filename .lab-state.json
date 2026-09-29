@@ -1,5 +1,8 @@
 {
   "txcAuth": "aleksander.zekelin@networg.com",
   "tenantId": "67266d43-8de7-494d-9ed8-3d1bd3b3a764",
-  "randomIdentifier": 6087
+  "randomIdentifier": 6087,
+  "slnxName": "WarehouseManagement",
+  "publisherName": "ALMLab",
+  "publisherPrefix": "almlab"
 }
